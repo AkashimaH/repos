@@ -1,0 +1,17 @@
+<pre><center>
+<title>Watson's Repo</title>
+<h1>Watson's Repo</h1>
+<li>Add to <a class="btn btn-sm btn-default" href="" id="cydia">Cydia</a></li>
+<li>Add to <a class="btn btn-sm btn-default" href="" id="installer">Installer</a></li>
+<li>Add to <a class="btn btn-sm btn-default" href="" id="sileo">Sileo</a></li>
+<li>Add to <a class="btn btn-sm btn-default" href="" id="zbra">Zebra</a></li>
+
+<script>
+    document.getElementById("sileo").href = "sileo://source/" + window.location.href;
+    document.getElementById("cydia").href = "cydia://url/https://cydia.saurik.com/api/share#?source=" + window.location.href;
+    document.getElementById("installer").href = "installer://add/" + window.location.href;
+    document.getElementById("zbra").href = "zbra://sources/add/" + window.location.href;
+</script>
+
+
+</center></pre>

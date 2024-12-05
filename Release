@@ -1,0 +1,8 @@
+Origin: Watson's Repositories
+Label: Watson's Repositories
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main 
+Description: Virtual memory statistics reporter, also known as vmstat, is a reports various bits of system information. Things like memomy, paging, processes, IO, CPU, and disk scheduling are all included in the array of information provided

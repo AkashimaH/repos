@@ -1,0 +1,11 @@
+Package: com.vmstats
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Daniel Watson <daniel.watson@gmail.com>
+Filename: ./debs/vm_stats_2.deb
+Size: 140160
+SHA256: 7f6d4ab2f36a8f883d0d9d638f86431279f7066d97b0868a3e4e1d718af1ec61
+Section: Tweaks
+Description: Virtual memory statistics reporter, also known as vmstat, is a reports various bits of system information. Things like memomy, paging, processes, IO, CPU, and disk scheduling are all included in the array of information provided
+Author: Daniel Watson <daniel.watson@gmail.com>
+Name: vm_stats_2
